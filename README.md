@@ -1,2 +1,3 @@
 # matrix
-kırmızo
+kırmızı hap mavi hap
+
